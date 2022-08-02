@@ -6,6 +6,7 @@
     function showContact() {
         contact_btn.style.display = "none";
         socials_btn.style.display = "block";
+
         socials_section.style.display = "none";
         contact_section.style.display = "block";
         contact_section.classList.add("animate");
